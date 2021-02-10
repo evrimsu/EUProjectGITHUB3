@@ -5,5 +5,8 @@ public class Main {
         System.out.println("HELLO LAST DAY OF GTHB");
         //hello
         //thanks so no problem
+        //hi
+        //hola
+        //ahoy
     }
 }
